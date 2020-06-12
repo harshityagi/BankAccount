@@ -1,5 +1,3 @@
-package Bank;
-
 import java.util.Scanner;
 
 public class BankingApplication {
